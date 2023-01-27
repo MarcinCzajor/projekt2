@@ -68,7 +68,7 @@ nav li a {
     height: 621px;
     background-image: url(pies.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: -100;
     position: relative;
 }
 
