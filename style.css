@@ -299,12 +299,6 @@ p {
         top: 150px;
     }
 
-    .button:hover {
-        background-color: #f1f1f1;
-        color: black;
-
-    }
-
     nav ul li {
         display: none;
     }
